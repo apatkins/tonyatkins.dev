@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-name="Foxnews" tvg-logo="https://apatkins.github.io/foxnews.png" tvg-id="Foxnews.us" tvg-country="US" group-title="USA",Foxnews 
 http://206.212.244.63/67/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https:/apatkins.github.io/espn.png" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://apatkins.github.io/espn.png" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
 http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
