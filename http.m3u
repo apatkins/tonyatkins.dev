@@ -4,3 +4,12 @@ http://206.212.244.63/67/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://tonyatkins.dev/espn.png" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
 http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-name="ABC (720p)" group-title="United States · iptv-org",ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-name="CBS (1080p)" group-title="General",CBS (1080p)
+http://stream.cammonitorplus.net/1783/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-name="Fox (720p)" group-title="General",Fox (720p)
+http://40.160.24.52/FOX/index.m3u8
