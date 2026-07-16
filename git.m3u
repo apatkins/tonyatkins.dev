@@ -1,6 +1,0 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
-#EXTINF:-1 tvg-name="US - ABC East WABC" tvg-logo="ABC.png" tvg-id="ABCEast_WABC.us" tvg-country="US" group-title="USA",ABC 
-http://40.160.24.52/ABC/index.m3u8
-
-#EXTINF:-1 tvg-name="US - ABC East WABC" tvg-logo="ABC.png" tvg-id="ABCEast_WABC.us" tvg-country="US" group-title="USA",ABC (720)  
-http://41.205.93.154/ABC/index.m3u8
