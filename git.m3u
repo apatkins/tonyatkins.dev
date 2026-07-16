@@ -26,7 +26,7 @@ http://40.160.24.52/CHARGE/index.m3u8
 #EXTINF:-1 tvg-name="US - CircleCountry" tvg-logo="CIRCLE.png" tvg-id="CircleCountry.us" tvg-country="US" group-title="USA",CIRCLE 
 http://206.212.244.63/37/index.m3u8
 
-#EXTINF:-1 tvg-name="US - CW58 WNAB Nashville TN" tvg-logo="CMT.png" tvg-id="CW58WNAB.us" tvg-country="US" group-title="USA",CMT 
+#EXTINF:-1 tvg-name="US - CMT" tvg-logo="CMT.png" tvg-id="CMT.us" tvg-country="US" group-title="USA",CMT 
 http://40.160.24.52/CMT/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Comet" tvg-logo="Comet.png" tvg-id="Comet.us" tvg-country="US" group-title="USA",Comet 
@@ -35,7 +35,7 @@ http://40.160.24.52/COMET/index.m3u8
 #EXTINF:-1 tvg-name="US - COZI TV" tvg-logo="COZI.png" tvg-id="CoziTV.us" tvg-country="US" group-title="USA",COZI TV 
 http://40.160.24.52/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="US - CW" tvg-logo="CW.png" tvg-id="CW.us" tvg-country="US" group-title="USA",CW 
+#EXTINF:-1 tvg-name="US - CW58WNAB" tvg-logo="CW.png" tvg-id="CW58 WNAB Nashville TN" tvg-country="US" group-title="USA",CW 
 http://40.160.24.52/CW/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="ESPN.png" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
@@ -166,6 +166,7 @@ http://40.160.24.55/WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="US - WEATHERNATION" tvg-logoWEATHERNATION.png" tvg-id="WeatherNationTV.us" tvg-country="US" group-title="USA",WEATHERNATION 
 http://40.160.24.55/WEATHER_NATION/index.m3u8
+
 
 
 
