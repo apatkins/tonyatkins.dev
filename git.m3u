@@ -53,8 +53,8 @@ http://40.160.24.52/FLIX/index.m3u8
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="FloRacing.png" tvg-id="FloRacing.us" tvg-country="US" group-title="USA",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - Fox East WNYW" tvg-logo="Fox.png" tvg-id="FoxEast_WNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
-http://40.160.24.52/FOX/index.m3u8
+#EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-logo="Fox.png" tvg-id="FOXWNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
+http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
 http://40.160.24.52/FOX_NEWS/index.m3u8
