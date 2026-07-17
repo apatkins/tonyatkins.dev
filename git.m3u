@@ -41,14 +41,8 @@ http://40.160.24.52/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/hDnJE3FvsPPBdB-LeCeY5ncCR7duUmBySmJh0xHDR07-OOEPOqnQonEUeOA__1vfeo0pRbW5g2Z4JcsuFu84u-nOtPJtfB3uImrMRl_bMw" tvg-id="FloRacing.us" tvg-country="US" group-title="USA",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-logo="Fox.png" tvg-id="FOXWNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
+#EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-logo="https://iptv-epg.org/images/y1VJttxjWpzjEfPerCI1TPHhLs_NXmr7PtnJv5djrtzXh0z5GtbMZduNHjRt0ya99FpRUrhAcjU731-6MdSJyI3_7q-fYePkaJLh4rw" tvg-id="FOXWNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
 http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX
-http://45.190.28.50/FOX_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
 http://206.212.244.63/67/index.m3u8
@@ -86,7 +80,7 @@ http://40.160.24.53/ION_PLUS/index.m3u8
 #EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="Lifetime.png" tvg-id="Lifetime.us" tvg-country="US" group-title="USA",Lifetime 
 http://40.160.24.53/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="LiveNOWfromFOX.png" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX 
+#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="US - MeTV" tvg-logo="MeTV.png" tvg-id="MeTV.us" tvg-country="US" group-title="USA",MeTV 
