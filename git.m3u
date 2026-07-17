@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
 #EXTINF:-1 tvg-name="US - ABC East WABC" tvg-logo="ABC.png" tvg-id="ABCEast_WABC.us" tvg-country="US" group-title="USA",ABC 
-http://40.160.24.52/ABC/index.m3u8
+http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-name="US - A&E Network" tvg-logo="AandENetwork.png" tvg-id="AandENetwork.us" tvg-country="US" group-title="USA",AandENetwork   
 http://206.212.244.63/1/index.m3u8
@@ -21,22 +21,19 @@ http://stream.cammonitorplus.net/1783/index.m3u8
 http://stream.cammonitorplus.net/1798/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Charge!" tvg-logo="Charge.png" tvg-id="Charge!.uss" tvg-country="US" group-title="USA",Charge!    
-http://40.160.24.52/CHARGE/index.m3u8
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
 #EXTINF:-1 tvg-name="US - CircleCountry" tvg-logo="CIRCLE.png" tvg-id="CircleCountry.us" tvg-country="US" group-title="USA",CIRCLE 
 http://206.212.244.63/37/index.m3u8
 
 #EXTINF:-1 tvg-name="US - CMT" tvg-logo="CMT.png" tvg-id="CMT.us" tvg-country="US" group-title="USA",CMT 
-http://40.160.24.52/CMT/index.m3u8
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Comet" tvg-logo="Comet.png" tvg-id="Comet.us" tvg-country="US" group-title="USA",Comet 
-http://40.160.24.52/COMET/index.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-name="US - COZI TV" tvg-logo="COZI.png" tvg-id="CoziTV.us" tvg-country="US" group-title="USA",COZI TV 
-http://40.160.24.52/COZI_TV/index.m3u8
-
-#EXTINF:-1 tvg-name="US - CW58WNAB" tvg-logo="CW.png" tvg-id="CW58WNAB.us" tvg-country="US" group-title="USA",CW 
-http://40.160.24.52/CW/index.m3u8
+http://206.212.244.63/49/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="ESPN.png" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
 http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
@@ -45,7 +42,7 @@ http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPNEWS" tvg-logo="ESPNEWS.png" tvg-id="ESPNEWS.us" tvg-country="US" group-title="USA",ESPNEWS 
-http://40.160.24.52/ESPN_NEWS/index.m3u8
+http://41.223.30.230/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FLIX" tvg-logo="FLIX.png" tvg-id="FLIX.us" tvg-country="US" group-title="USA",FLIX 
 http://40.160.24.52/FLIX/index.m3u8
@@ -55,9 +52,6 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-logo="Fox.png" tvg-id="FOXWNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
 http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 1
-http://40.160.24.52/FOX_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 2
 http://41.205.77.102/FOX-NEWS/index.m3u8
@@ -74,7 +68,6 @@ http://167.250.126.140:7777/FOXNEWS-HD/index.m3u8
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 5
 http://206.212.244.63/67/index.m3u8
 
-
 #EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="FoxSports1.png" tvg-id="FoxSports1.us" tvg-country="US" group-title="USA",Fox Sports 1 
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
@@ -82,13 +75,13 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://stream.cammonitorplus.net/1799/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FREEFORM" tvg-logo="FREEFORM.png" tvg-id="Freeform.us" tvg-country="US" group-title="USA",FREEFORM 
-http://40.160.24.52/FREEFORM/index.m3u8
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="US - FUSE" tvg-logo="FUSE.png" tvg-id="Fuse.us" tvg-country="US" group-title="USA",FUSE 
-http://40.160.24.52/FUSE/index.m3u8
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FX" tvg-logo="FX.png" tvg-id="FX.us" tvg-country="US" group-title="USA",FX   
-http://40.160.24.52/FX/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FX Movies" tvg-logo="FXM.png" tvg-id="FXMovies.us" tvg-country="US" group-title="USA",FXM 
 http://40.160.24.52/FXM/index.m3u8
