@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="US - A&E Network" tvg-logo="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" tvg-id="AandENetwork.us" tvg-country="US" group-title="USA",AandENetwork   
 http://206.212.244.63/1/index.m3u8
 
-#EXTINF:-1 tvg-name="US - AMC" tvg-logo="AMC.png" tvg-id="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" tvg-country="US" group-title="USA",AMC    
+#EXTINF:-1 tvg-name="US - AMC" tvg-logo="AMC.png" tvg-id="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-country="US" group-title="USA",AMC    
 http://23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 tvg-name="US - BBCAmerica" tvg-logo="https://iptv-epg.org/images/1XyIUIoBZ26raHej6EPHBLh3Rg6qbbhtMYh8inbku6U2wLruJhmXPHpo0_UcGloPob6YMQgPg0rsAbxnYXTFjo598lO7wvzENM5Ad-ODQDg" tvg-id="BBCAmerica.us" tvg-country="US" group-title="USA",BBCAmerica    
@@ -11,10 +11,10 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-name="US - BounceXL" tvg-logo="https://iptv-epg.org/images/p1PGiImnvlLVsltORKXHKq8C8UiJRJMRZsYi9eIcUBsuGKP-d2GaU2DjRd4BxEfrADdzLoHRcLxMNRJsgJGnvzTl4D1tXdDBYgpWewbY" tvg-id="BounceXL.us" tvg-country="US" group-title="USA",BounceXL 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - CBS East WCBS" tvg-logo="CBSEast_WCBS.png" tvg-id="CBSEast_WCBS.us" tvg-country="US" group-title="USA",CBSEast_WCBS 
+#EXTINF:-1 tvg-name="US - CBS East WCBS" tvg-logo="https://iptv-epg.org/images/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSEast_WCBS.us" tvg-country="US" group-title="USA",CBSEast_WCBS 
 http://stream.cammonitorplus.net/1783/index.m3u8
 
-#EXTINF:-1 tvg-name="US - CBS West KCBS" tvg-logo="https://iptv-epg.org/images/jquXIYkHajx8IymTApEC_wOWWLfbtUHCr0cms3y719BPfIO29Az_Pcb14jaO6nggkcfihSf9otDAA841m9AV-kuzbQu9I8_xW-hcha0xfYgd0Q.png" tvg-id="CBSWest_KCBS.us" tvg-country="US" group-title="USA",CBSWest_KCBS 
+#EXTINF:-1 tvg-name="US - CBS West KCBS" tvg-logo="https://iptv-epg.org/images/jquXIYkHajx8IymTApEC_wOWWLfbtUHCr0cms3y719BPfIO29Az_Pcb14jaO6nggkcfihSf9otDAA841m9AV-kuzbQu9I8_xW-hcha0xfYgd0Q" tvg-id="CBSWest_KCBS.us" tvg-country="US" group-title="USA",CBSWest_KCBS 
 http://stream.cammonitorplus.net/1798/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Charge!" tvg-logo="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" tvg-id="Charge!.us" tvg-country="US" group-title="USA",Charge!    
