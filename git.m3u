@@ -35,7 +35,7 @@ http://40.160.24.52/COMET/index.m3u8
 #EXTINF:-1 tvg-name="US - COZI TV" tvg-logo="COZI.png" tvg-id="CoziTV.us" tvg-country="US" group-title="USA",COZI TV 
 http://40.160.24.52/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="US - CW58WNAB" tvg-logo="CW.png" tvg-id="CW58 WNAB Nashville TN" tvg-country="US" group-title="USA",CW 
+#EXTINF:-1 tvg-name="US - CW58WNAB" tvg-logo="CW.png" tvg-id="CW58WNAB.us" tvg-country="US" group-title="USA",CW 
 http://40.160.24.52/CW/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="ESPN.png" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
