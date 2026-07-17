@@ -44,7 +44,7 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-logo="Fox.png" tvg-id="FOXWNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS
+#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX
 http://45.190.28.50/FOX_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="FOXNEWS.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
