@@ -45,7 +45,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 http://41.223.30.230/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FLIX" tvg-logo="FLIX.png" tvg-id="FLIX.us" tvg-country="US" group-title="USA",FLIX 
-http://40.160.24.52/FLIX/index.m3u8
+http://40.160.24.53/FLIX/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="FloRacing.png" tvg-id="FloRacing.us" tvg-country="US" group-title="USA",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
@@ -84,7 +84,7 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FX Movies" tvg-logo="FXM.png" tvg-id="FXMovies.us" tvg-country="US" group-title="USA",FXM 
-http://40.160.24.52/FXM/index.m3u8
+http://40.160.24.53/FXM/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="GritXtra.png" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
