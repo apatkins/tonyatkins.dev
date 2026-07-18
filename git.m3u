@@ -101,58 +101,58 @@ https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-name="US - MOVIESPHERE" tvg-logo="https://iptv-epg.org/images/dacvysPC8SQ3uMo-Kcz4Fu1GFdCjko5orpMcUUGWcJ6PfumD_mDtzco54h_Icnur6BVOF8r72zSpaHfgWbH8VE_eJ8MM7NbtY9y6zjcDnnBP" tvg-id="MOVIESPHERE.us" tvg-country="US" group-title="USA",MOVIESPHERE 
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - NBC East WNBC" tvg-logo="NBC.png" tvg-id="NBCEast_WNBC.us" tvg-country="US" group-title="USA",NBC East 
+#EXTINF:-1 tvg-name="US - NBC East WNBC" tvg-logo="https://iptv-epg.org/images/Ui45EbigHWvIyEk_K6C-xPpx6uOzvJmbmsLny4T5qpzfXoal8Ij08t7yXZ5tVxciDmNY3WNBW3-zJcBia3MQy_SucZqJRd1fIjSe5r8ViEjWng" tvg-id="NBCEast_WNBC.us" tvg-country="US" group-title="USA",NBC East 
 http://stream.cammonitorplus.net/1785/index.m3u8
 
-#EXTINF:-1 tvg-name="US - NBCSN" tvg-logo="NBCSN.png" tvg-id="NBCSN.us" tvg-country="US" group-title="USA",NBCSN 
+#EXTINF:-1 tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/images/THuXTeGNLHUtEMpgRq_g5h2VKfw5kaHXY4sCCfQU1brrmvflHrdclkdhRFXvlrx39tipGIdxc1F0cASdgYj2OqPmDIeJJfM0bXRx" tvg-id="NBCSN.us" tvg-country="US" group-title="USA",NBCSN 
 http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="US - NFL Network" tvg-logo="NFLNetwork.png" tvg-id="NFLNetwork.us" tvg-country="US" group-title="USA",NFL Network 
+#EXTINF:-1 tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/images/f3_tBRtSCAEjtwd5zXWs7KWwyPAEoY18afD0aVcaTcVClL6zvVuuEQMp6AjVEupS1uDSqCM12q5a9lmPA-bnJVZku_t-6y-0xL8TuqGB2mU" tvg-id="NFLNetwork.us" tvg-country="US" group-title="USA",NFL Network 
 http://40.160.24.53/NFL_Network/index.m3u8
 
-#EXTINF:-1 tvg-name="US - OXYGEN" tvg-logo="OXYGEN.png" tvg-id="Oxygen.us" tvg-country="US" group-title="USA",OXYGEN 
+#EXTINF:-1 tvg-name="US - OXYGEN" tvg-logo="https://iptv-epg.org/images/ak9mJUy_xWuWjqHjsaRUC_gQoFmSW_Do0ZUpcvU3csMVQT89XePIFTulndDziRUsCi_lTM3YUEDJPRsJqOoJGSjNlVwn4npbdfFTlA" tvg-id="Oxygen.us" tvg-country="US" group-title="USA",OXYGEN 
 http://40.160.24.55/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-name="US - PARAMOUNT NETWORK" tvg-logo="PARAMOUNT.png" tvg-id="ParamountNetwork.us" tvg-country="US" group-title="USA",PARAMOUNT NETWORK 
+#EXTINF:-1 tvg-name="US - PARAMOUNT NETWORK" tvg-logo="https://iptv-epg.org/images/vwsSy79umd0LHTFfxgiZsUqEAh5geC8hR3VaieXI_NKiMi8C7PIQdMU32iGgwUVgpKzrkqu2b7f_1H_s0CISJPuQgxK-qSVO52u8uh0L9UmQVVzBlKw" tvg-id="ParamountNetwork.us" tvg-country="US" group-title="USA",PARAMOUNT NETWORK 
 http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="US - SEC NETWORK" tvg-logo="SECNETWORK.png" tvg-id="SECNetwork.us" tvg-country="US" group-title="USA",SEC NETWORK 
+#EXTINF:-1 tvg-name="US - SEC NETWORK" tvg-logo="https://iptv-epg.org/images/V0aODo73hjDPT5stwG4hFkg6iOJ0tvX3zmkvcjRZRD72t2NXVT1RVYuPfrRhsEsewy3p_AZF7JsGtI_FGLQq6qIdLt-cONa4SpdEaeTYoEU" tvg-id="SECNetwork.us" tvg-country="US" group-title="USA",SEC NETWORK 
 http://40.160.24.55/SEC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="US - SHOWTIME FAMILY" tvg-logo="SHOWTIMEFAMILY.png" tvg-id="ShowtimeFamilyzone.us" tvg-country="US" group-title="USA",SHOWTIME FAMILY 
+#EXTINF:-1 tvg-name="US - SHOWTIME FAMILY" tvg-logo="https://iptv-epg.org/images/RbeYDVc2dQJskikDihuxOhgyKfhx_XslnGoSr0hBiG20xZvEWMT17pJRseiw15EpuS7mrRt3YxgTO9wnm8hybHNQnW5lZ87Ru4PKFhhH9uBYXisVUUxnlw" tvg-id="ShowtimeFamilyzone.us" tvg-country="US" group-title="USA",SHOWTIME FAMILY 
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-name="US - STARZ" tvg-logo="STARZ.png" tvg-id="Starz.us" tvg-country="US" group-title="USA",STARZ 
+#EXTINF:-1 tvg-name="US - STARZ" tvg-logo="https://iptv-epg.org/images/1nWxSIQbS66JyQy8NNbRsyp_FZZf15rNxLXBm3F1YgHfD6T2mh1-uzCKK854wzPTEYxXxxlfPNAN4Y96fmOaSTbw3bL2oaieydgF" tvg-id="Starz.us" tvg-country="US" group-title="USA",STARZ 
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-name="US - STARZ CINEMA" tvg-logo="StarzCinema.png" tvg-id="StarzCinema.us" tvg-country="US" group-title="USA",StarzCinema 
+#EXTINF:-1 tvg-name="US - STARZ CINEMA" tvg-logo="https://iptv-epg.org/images/E5-NXe6GOa8bMf0fKuY35WCUMOIIfzFSiqppIWiE6jbIlOsSFSuCRj6oth7vEmzWCU0RMLiIbqzLQD8zNHTVP1s1OwUlCR_YOkNgmiZaNDHe" tvg-id="StarzCinema.us" tvg-country="US" group-title="USA",StarzCinema 
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-name="US - STARZ COMEDY" tvg-logo="STARZCOMEDY.png" tvg-id="StarzComedy.us" tvg-country="US" group-title="USA",STARZ COMEDY 
+#EXTINF:-1 tvg-name="US - STARZ COMEDY" tvg-logo="https://iptv-epg.org/images/vD1I-Uht8fkNkmwrD-E5o9Leo2s2Ufx9NhnaN4jnm6YvYS-MyDTuLK6MOyBlmqScW5jmixRlNevsQtgs5n1sDI-l6ho0rxvGU4bPcKve9Dp-" tvg-id="StarzComedy.us" tvg-country="US" group-title="USA",STARZ COMEDY 
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-name="US - SUNDANCETV" tvg-logo="SUNDANCETV.png" tvg-id="SundanceTV.us" tvg-country="US" group-title="USA",SUNDANCETV 
+#EXTINF:-1 tvg-name="US - SUNDANCETV" tvg-logo="https://iptv-epg.org/images/-IKap6kpzT2EzspswP_aDkQ_6hng7qHuFHRXq4gTLWdj9G72ZyUSBw4BszcxdtdJEDM8nNDiAhMzcoi4dTZdCmuOmMJQ_4cUZnJ9w-gQrBA" tvg-id="SundanceTV.us" tvg-country="US" group-title="USA",SUNDANCETV 
 http://40.160.24.55/SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Syfy" tvg-logo="Syfy.png" tvg-id="Syfy.us" tvg-country="US" group-title="USA",Syfy 
+#EXTINF:-1 tvg-name="US - Syfy" tvg-logo="https://iptv-epg.org/images/oidrAJ7WAFUiUtfBcdksi3jpxGIPGeARtriAklc8VKwnvQVKuzfwG3X-0b75GzuNUAM1i4YZiLfaQZhi20r16b8EEBCRnjObaDc" tvg-id="Syfy.us" tvg-country="US" group-title="USA",Syfy 
 http://40.160.24.55/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-name="US - TBS" tvg-logo="TBS.png" tvg-id="TBS.us" tvg-country="US" group-title="USA",TBS 
+#EXTINF:-1 tvg-name="US - TBS" tvg-logo="https://iptv-epg.org/images/Szy_XqN-tC2ogzFV2Ngtm2yRnd02vtJpujv85-vDn_VchpMrYwB3zV7jcTD1KW7FSP5qKRcfyCpikPmArcDhTSGjbNVZCVc2gQ" tvg-id="TBS.us" tvg-country="US" group-title="USA",TBS 
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-name="US - TNT" tvg-logo="TNT.png" tvg-id="TNT.us" tvg-country="US" group-title="USA",TNT 
+#EXTINF:-1 tvg-name="US - TNT" tvg-logo="https://iptv-epg.org/images/U1E7n-2dT21tlIhUtfagQw6ozq6a4jz1Z-dyhqqE8nq3VovZxRUkwvReoXjaXP1_As5Z678y584uLXiNsDHwl-JZyQvwWQOirQ" tvg-id="TNT.us" tvg-country="US" group-title="USA",TNT 
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-name="US - TVLAND" tvg-logo="TVLAND.png" tvg-id="TVLand.us" tvg-country="US" group-title="USA",TVLand 
+#EXTINF:-1 tvg-name="US - TVLAND" tvg-logo="https://iptv-epg.org/images/CmXJuk9vKqomQBzadxyU-5xzRnB2vLmtw2LrikKeGuBfBZtif-Fdf8EXsrBaxKmYpTF-9JJ_MsX34HyOr-31lJGRXXROW2ZhYX0Rtw" tvg-id="TVLand.us" tvg-country="US" group-title="USA",TVLand 
 http://40.160.24.55/TV_LAND/index.m3u8
 
-#EXTINF:-1 tvg-name="US - USA Network" tvg-logo="USA Network.png" tvg-id="USANetwork.us" tvg-country="US" group-title="USA",USA Network 
+#EXTINF:-1 tvg-name="US - USA Network" tvg-logo="https://iptv-epg.org/images/LG1yQ6aw7ksxqOwVimD8GRb-gXJ4lwWa8IADHj4jw3PepT0lN6bAjNInKeV0dSB4JqIYpmcOXszxE6dD8mI9bffEl0nMpxYMq5RUxaFJ8IY" tvg-id="USANetwork.us" tvg-country="US" group-title="USA",USA Network 
 http://45.190.156.152/USA/index.m3u8
 
-#EXTINF:-1 tvg-name="US - WE TV" tvg-logo="WETV.png" tvg-id="WeTV.us" tvg-country="US" group-title="USA",WE TV 
+#EXTINF:-1 tvg-name="US - WE TV" tvg-logo="https://iptv-epg.org/images/H3I1h1YAeMLrIylLwaGAK2IaLCuNvPAl9Sgh61ptOyOSvUHsGS714BTYMR2FnNmkRD47i9x2GCWs1bJ3Lccu8miZjKQklUenqwc" tvg-id="WeTV.us" tvg-country="US" group-title="USA",WE TV 
 http://40.160.24.55/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="US - WEATHERNATION" tvg-logoWEATHERNATION.png" tvg-id="WeatherNationTV.us" tvg-country="US" group-title="USA",WEATHERNATION 
+#EXTINF:-1 tvg-name="US - WEATHERNATION" tvg-logo="https://iptv-epg.org/images/gpItsibwZomEiA_trHQxRT-yYXT2KkgEiwmdXxM9OEYPpCWFZVvTGCIWTLpnD0qDMd2YnwzKA8uGUYNRR4VVL6WSelLA1UM_8zmGhrQaS8Io-Whkfw" tvg-id="WeatherNationTV.us" tvg-country="US" group-title="USA",WEATHERNATION 
 http://40.160.24.55/WEATHER_NATION/index.m3u8
 
 
