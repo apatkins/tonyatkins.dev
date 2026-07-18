@@ -23,7 +23,7 @@ http://40.160.24.52/CHARGE/index.m3u8
 #EXTINF:-1 tvg-name="US - CircleCountry" tvg-logo="https://iptv-epg.org/images/6ZBMBBaewoZvIWqZgsjx1KsSNRwZmjjwl0g7gnzj7VV4ulTl2lzi3emoEsa682iEPqg-hgwuShX-QhMglFbawYYiM8whevIRYsOAuc15fIEXmRI" tvg-id="CircleCountry.us" tvg-country="US" group-title="USA",CIRCLE 
 http://206.212.244.63/37/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Comet.us" tvg-country="US" group-title="USA",Comet   
+#EXTINF:-1 tvg-name="US - Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Comet.us" tvg-country="US" group-title="USA",Comet 
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-name="US - COZI TV" tvg-logo="https://iptv-epg.org/images/usVFn1kHlqHsvUYatA7BMtcfWXgc94UJK89UWn38ceG4H0kzJv0JtZJCD72d_xyDZGaFq_tU_3PeGjC4YSH5BlmU7cRgFMLlGY8VMA" tvg-id="CoziTV.us" tvg-country="US" group-title="USA",COZI TV 
