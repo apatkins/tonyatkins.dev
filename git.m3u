@@ -74,31 +74,31 @@ http://40.160.24.53/INSP/index.m3u8
 #EXTINF:-1 tvg-name="US - ION TV" tvg-logo="https://iptv-epg.org/images/svg-ooNL7LaZBJi2Mdl5dT_xTcvHwe6i_kLEq8-Yu-VzhJdmUJMfoIIDRw_g5WWr6v0qO0TcLeAvpT0oIFNJel0xUMxl1eJsKE2z" tvg-id="IonTV.us" tvg-country="US" group-title="USA",ION TV 
 http://40.160.24.53/ION_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="US - IONPlus" tvg-logo="IONPlus.png" tvg-id="IONPlus.us" tvg-country="US" group-title="USA",IONPlus 
+#EXTINF:-1 tvg-name="US - IONPlus" tvg-logo="https://iptv-epg.org/images/eA0rG8647GlsgiSQwQslY7YqQ3zmeSjnTdhg2-_ncsF3x2wK98i8571d5TsNHUWTA_igzYV_vrCJDgySp2rlRS51V97SWHccIEOhIc8" tvg-id="IONPlus.us" tvg-country="US" group-title="USA",IONPlus 
 http://40.160.24.53/ION_PLUS/index.m3u8 
 
-#EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="Lifetime.png" tvg-id="Lifetime.us" tvg-country="US" group-title="USA",Lifetime 
+#EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="https://iptv-epg.org/images/7gPmS2xqTs5o3p4PBGAvv5oDQjKVbPedd3YJvWSCPUd14BQ0wZZfZRkKgTloMQZeiGfY_xoBSvTPspPnbTDz4pIDxHhhDSbs5jZ7fLHCOQyhi1gLa_eTbw8" tvg-id="Lifetime.us" tvg-country="US" group-title="USA",Lifetime 
 http://40.160.24.53/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - MeTV" tvg-logo="MeTV.png" tvg-id="MeTV.us" tvg-country="US" group-title="USA",MeTV 
+#EXTINF:-1 tvg-name="US - MeTV" tvg-logo="https://iptv-epg.org/images/nhZ6CVe4hclZOAQ2FVY-GfnwIM_o9Zx9Ic8Kinb1xPxdmM7BsGmrqtyrFMkNd6z6ai5AMkcX_UQNmDDaz6YwMAgKBI9nTBJ4H5Za4W4" tvg-id="MeTV.us" tvg-country="US" group-title="USA",MeTV 
 http://40.160.24.53/METV/index.m3u8
 
-#EXTINF:-1 tvg-name="US - METV Plus" tvg-logo="METVPlus.png" tvg-id="MeTV+.us" tvg-country="US" group-title="USA",METV Plus 
+#EXTINF:-1 tvg-name="US - METV Plus" tvg-logo="https://iptv-epg.org/images/XkHHWgXEeqylxn-ZIFsmc0shO6z_Ea6ojxlGHk7XDTIppv50tSgYg2WlpwIwAgVoaj91ibFLXsY8qqsZg1qKgpIv1veA6KzZiXIL-uU" tvg-id="MeTV+.us" tvg-country="US" group-title="USA",METV Plus 
 http://40.160.24.52/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-name="US - MGM+" tvg-logo="MGM+.png" tvg-id="MGM+.us" tvg-country="US" group-title="USA",MGM+ 
+#EXTINF:-1 tvg-name="US - MGM+" tvg-logo="https://iptv-epg.org/images/qa2Z05NZLuhTJ8zGv3Owc-IKDcKSAQJWN7LFcTAJyOTuK1mYpV1YYwfNzXXzUfXk5HauJx0n6magmGjDKQ5Nt28GUH2jSpea4UeWlw" tvg-id="MGM+.us" tvg-country="US" group-title="USA",MGM+ 
 http://40.160.24.52/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-name="US - MGM+ Hits" tvg-logo="MGM+Hits.png" tvg-id="MGM+Hits.us" tvg-country="US" group-title="USA",MGM+ Hits 
+#EXTINF:-1 tvg-name="US - MGM+ Hits" tvg-logo="https://iptv-epg.org/images/ZnUcjJsXM0RPHwhX2J-8r5sUghEoWNA40hKaFJLzg9WBqwoy9qbxtbx2uiVIrZlPOmMNgAFHBYZ3zWOSnGLoLwu8qyjN-EArfmyUv85anQQ" tvg-id="MGM+Hits.us" tvg-country="US" group-title="USA",MGM+ Hits 
 http://40.160.24.52/EPIX_2/index.m3u8
 
-#EXTINF:-1 tvg-name="US - MOVIES!" tvg-logo="MOVIES!.png" tvg-id="Movies!.us" tvg-country="US" group-title="USA",MOVIES! 
+#EXTINF:-1 tvg-name="US - MOVIES!" tvg-logo="https://iptv-epg.org/images/MKYMPBQm7aLgpYPoWu4TRF--6UQIJRVumvY0sa9BWg99aiBlvAValhefy_ELRPC06PH_V0BJlVziajnOaeC8EZOGCmHzGouUKiWlmgDWBw" tvg-id="Movies!.us" tvg-country="US" group-title="USA",MOVIES! 
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 
-#EXTINF:-1 tvg-name="US - MOVIESPHERE" tvg-logo="MOVIESPHERE.png" tvg-id="MOVIESPHERE.us" tvg-country="US" group-title="USA",MOVIESPHERE 
+#EXTINF:-1 tvg-name="US - MOVIESPHERE" tvg-logo="https://iptv-epg.org/images/dacvysPC8SQ3uMo-Kcz4Fu1GFdCjko5orpMcUUGWcJ6PfumD_mDtzco54h_Icnur6BVOF8r72zSpaHfgWbH8VE_eJ8MM7NbtY9y6zjcDnnBP" tvg-id="MOVIESPHERE.us" tvg-country="US" group-title="USA",MOVIESPHERE 
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="US - NBC East WNBC" tvg-logo="NBC.png" tvg-id="NBCEast_WNBC.us" tvg-country="US" group-title="USA",NBC East 
