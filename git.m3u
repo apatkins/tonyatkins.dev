@@ -47,31 +47,31 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
 http://206.212.244.63/67/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="FoxSports1.png" tvg-id="FoxSports1.us" tvg-country="US" group-title="USA",Fox Sports 1 
+#EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-id="FoxSports1.us" tvg-country="US" group-title="USA",Fox Sports 1 
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-name="US - FOX West KTTV" tvg-logo="FOX_West.png" tvg-id="FOXWest_KTTV.us" tvg-country="US" group-title="USA",FOX West 
+#EXTINF:-1 tvg-name="US - FOX West KTTV" tvg-logo="https://iptv-epg.org/images/62mnXwDKOukd68GnMciQFzWGpMKOiNfSpzVnhpHfqnyLvogrfLQElLCaAcJTp5ScpRwK9prvFR0K0TBokXEPiWqEa1eFA6MqxlRfiMl1rrOeVQ" tvg-id="FOXWest_KTTV.us" tvg-country="US" group-title="USA",FOX West 
 http://stream.cammonitorplus.net/1799/index.m3u8
 
-#EXTINF:-1 tvg-name="US - FREEFORM" tvg-logo="FREEFORM.png" tvg-id="Freeform.us" tvg-country="US" group-title="USA",FREEFORM 
+#EXTINF:-1 tvg-name="US - FREEFORM" tvg-logo="https://iptv-epg.org/images/qHxUT4l-rd4_nGFZRHP9VLWcgzECkdXVc9QS3DdcUrUfBiGL_WBTEoTj2LDMEFwyhlWF8WC2ad2T6kcfsLEhTAGw10ArJUo9yrDZ7bPb" tvg-id="Freeform.us" tvg-country="US" group-title="USA",FREEFORM 
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - FUSE" tvg-logo="FUSE.png" tvg-id="Fuse.us" tvg-country="US" group-title="USA",FUSE 
+#EXTINF:-1 tvg-name="US - FUSE" tvg-logo="FUSE.png" tvg-id="https://iptv-epg.org/images/qHxUT4l-rd4_nGFZRHP9VLWcgzECkdXVc9QS3DdcUrUfBiGL_WBTEoTj2LDMEFwyhlWF8WC2ad2T6kcfsLEhTAGw10ArJUo9yrDZ7bPb" tvg-country="US" group-title="USA",FUSE 
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
-#EXTINF:-1 tvg-name="US - FX" tvg-logo="FX.png" tvg-id="FX.us" tvg-country="US" group-title="USA",FX   
+#EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="USA",FX   
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1 tvg-name="US - FX Movies" tvg-logo="FXM.png" tvg-id="FXMovies.us" tvg-country="US" group-title="USA",FXM 
+#EXTINF:-1 tvg-name="US - FX Movies" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FXMovies.us" tvg-country="US" group-title="USA",FXM 
 http://40.160.24.53/FXM/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="GritXtra.png" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
+#EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://iptv-epg.org/images/oIkpFKhuV3AyTS7VTsj12Jsi_GphJNmek8jHLFgm0WTPycmbeosWIuuPNDdFNx6X1tQd1MF_5CjDv7D-Eb6kt2YqV8_AeQUZEAarbMg5" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - INSP" tvg-logo="INSP.png" tvg-id="INSP.us" tvg-country="US" group-title="USA",INSP 
+#EXTINF:-1 tvg-name="US - INSP" tvg-logo="https://iptv-epg.org/images/3n5HLkQsMS0yN7cJrh9YDoNmbwNY0oOJaubU6LX4VDayYO65QVcickIecQEqQiv3Er2LBXj4GNG4X40WiHC8-8lon-yg3WNZeCY" tvg-id="INSP.us" tvg-country="US" group-title="USA",INSP 
 http://40.160.24.53/INSP/index.m3u8
 
-#EXTINF:-1 tvg-name="US - ION TV" tvg-logo="IONTV.png" tvg-id="IonTV.us" tvg-country="US" group-title="USA",ION TV 
+#EXTINF:-1 tvg-name="US - ION TV" tvg-logo="https://iptv-epg.org/images/svg-ooNL7LaZBJi2Mdl5dT_xTcvHwe6i_kLEq8-Yu-VzhJdmUJMfoIIDRw_g5WWr6v0qO0TcLeAvpT0oIFNJel0xUMxl1eJsKE2z" tvg-id="IonTV.us" tvg-country="US" group-title="USA",ION TV 
 http://40.160.24.53/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="US - IONPlus" tvg-logo="IONPlus.png" tvg-id="IONPlus.us" tvg-country="US" group-title="USA",IONPlus 
