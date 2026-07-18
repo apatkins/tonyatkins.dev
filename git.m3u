@@ -56,7 +56,7 @@ http://stream.cammonitorplus.net/1799/index.m3u8
 #EXTINF:-1 tvg-name="US - FREEFORM" tvg-logo="https://iptv-epg.org/images/qHxUT4l-rd4_nGFZRHP9VLWcgzECkdXVc9QS3DdcUrUfBiGL_WBTEoTj2LDMEFwyhlWF8WC2ad2T6kcfsLEhTAGw10ArJUo9yrDZ7bPb" tvg-id="Freeform.us" tvg-country="US" group-title="USA",FREEFORM 
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - FUSE" tvg-logo="FUSE.png" tvg-id="https://iptv-epg.org/images/qHxUT4l-rd4_nGFZRHP9VLWcgzECkdXVc9QS3DdcUrUfBiGL_WBTEoTj2LDMEFwyhlWF8WC2ad2T6kcfsLEhTAGw10ArJUo9yrDZ7bPb" tvg-country="US" group-title="USA",FUSE 
+#EXTINF:-1 tvg-name="US - FUSE" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Fuse.us" tvg-country="US" group-title="USA",FUSE 
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="USA",FX   
