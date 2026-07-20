@@ -30,7 +30,7 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 http://40.160.24.52/COZI_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN 
-http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
+http://181.78.197.59:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPNU" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPNU.us" tvg-country="US" group-title="USA",ESPNU 
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
