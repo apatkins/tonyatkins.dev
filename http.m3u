@@ -1,0 +1,175 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+#EXTINF:-1 tvg-name="ABC National Feed" tvg-logo="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-id="ABC.National.Feed.us2" tvg-country="US" group-title="USA",ABC 
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-name="A and E HD East" tvg-logo="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" tvg-id="A.and.E.HD.East.us2" tvg-country="US" group-title="USA",AandENetwork   
+http://206.212.244.63/1/index.m3u8
+
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" tvg-id="AMC.HD.us2" tvg-country="US" group-title="USA",AMC    
+http://23.239.31.26:8989/amc/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC America HD" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" tvg-id="BBC.America.HD.us2" tvg-country="US" group-title="USA",BBCAmerica    
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1 tvg-name="">Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Bounce.TV.us2" tvg-country="US" group-title="USA",BounceXL 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBS Streaming SD East feed" tvg-logo="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-country="US" group-title="USA",CBS 
+http://stream.cammonitorplus.net/1783/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS West" tvg-logo="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-id="CBS.West.us2" tvg-country="US" group-title="USA",CBS West 
+http://stream.cammonitorplus.net/1798/index.m3u8
+
+#EXTINF:-1 tvg-name="CHARGE!" tvg-logo="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" tvg-id="CHARGE!.us2" tvg-country="US" group-title="USA",Charge!    
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-name="Circle Country" tvg-logo="http://dtil.tmsimg.com/assets/s116338_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Circle.Country.us2" tvg-country="US" group-title="USA",CIRCLE COUNTRY 
+http://206.212.244.63/37/index.m3u8
+
+#EXTINF:-1 tvg-name="CMT HD" tvg-logo="http://dtil.tmsimg.com/assets/s59440_ll_h15_ad.png?w=360&amp;h=270" tvg-id="CMT.HD.us2" tvg-country="US" group-title="USA",CMT 
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+
+#EXTINF:-1 tvg-name">Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Comet.us2" tvg-country="US" group-title="USA",Comet 
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-name="COZI TV" tvg-logo="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" tvg-id="COZI.TV.us2" tvg-country="US" group-title="USA",COZI TV 
+http://206.212.244.63/49/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logohttp://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" tvg-id="ESPN.HD.us2" tvg-country="US" group-title="USA",ESPN 
+http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ESPNU HD" tvg-logo="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" tvg-id="ESPNU.HD.us2" tvg-country="US" group-title="USA",ESPNU 
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPNEWS HD" tvg-logo="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&amp;h=270" tvg-idESPNEWS.HD.us2" tvg-country="US" group-title="USA",ESPNEWS 
+http://41.223.30.230/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="">Flix" tvg-logo="http://dtil.tmsimg.com/assets/s10201_ll_h15_aa.png?w=360&amp;h=270" tvg-id="="Flix.us2" tvg-country="US" group-title="USA",FLIX 
+http://40.160.24.53/FLIX/index.m3u8
+
+#EXTINF:-1 tvg-name="FloRacing" tvg-logo="FloRacing.png" tvg-id="FloRacing.us" tvg-country="US" group-title="USA",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX WNYW NYC NY" tvg-logo="Fox.png" tvg-id="FOXWNYW.us" tvg-country="US" group-title="USA",Fox East WNYW 
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox News Channel HD" tvg-logo="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Fox.News.Channel.HD.us2" tvg-country="US" group-title="USA",FOX NEWS 
+http://41.205.77.102/FOX-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="Live Now From Fox" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",Live Now From Fox 
+http://45.190.28.50/FOX_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox News Channel HD" tvg-logo="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Fox.News.Channel.HD.us2" tvg-country="US" group-title="USA",FOX NEWS
+http://206.212.244.63/67/index.m3u8
+
+#EXTINF:-1 tvg-name="FS1 Fox Sports 1 HD" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-country="US" group-title="USA",Fox Sports 1 
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX West KTTV" tvg-logo="https://iptv-epg.org/images/TTQ1wsS2QqIQuvL8dITA_RchoX_-nLVw970cEff5AhXmyBL051Z8z3K0A3CZAP2r-UcEz13VB6PW3KcpRFFBD9fX55TigPIrsk57" tvg-id="FOX.West.KTTV.us" tvg-country="US" group-title="USA",FOX West 
+http://stream.cammonitorplus.net/1799/index.m3u8
+
+#EXTINF:-1 tvg-name="Freeform HD" tvg-logo="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" tvg-id="Freeform.HD.us2" tvg-country="US" group-title="USA",FREEFORM 
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fuse HD" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Fuse.HD.us2" tvg-country="US" group-title="USA",FUSE 
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-name="FX HD" tvg-logo="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" tvg-id="FX.HD.us2" tvg-country="US" group-title="USA",FX   
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 tvg-name="FX Movie Channel HD" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=27" tvg-id="FX.Movie.Channel.HD.us2" tvg-country="US" group-title="USA",FXM 
+http://40.160.24.53/FXM/index.m3u8
+
+#EXTINF:-1 tvg-name="Grit" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" tvg-id="Grit.us2" tvg-country="US" group-title="USA",Grit 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="INSP HD" tvg-logo="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&amp;h=270" tvg-id="INSP.HD.us2" tvg-country="US" group-title="USA",INSP 
+http://40.160.24.53/INSP/index.m3u8
+
+#EXTINF:-1 tvg-name="">ION Television HD" tvg-logo="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" tvg-id="ION.Television.HD.us2" tvg-country="US" group-title="USA",ION TV 
+http://40.160.24.53/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="US - IONPlus" tvg-logo="IONPlus.png" tvg-id="IONPlus.us" tvg-country="US" group-title="USA",IONPlus 
+http://40.160.24.53/ION_PLUS/index.m3u8 
+
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" tvg-id="Lifetime.HD.us2" tvg-country="US" group-title="USA",Lifetime 
+http://40.160.24.53/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="LiveNOWfromFOX.png" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX 
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Me TV Network" tvg-logo="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Me.TV.Network.us2" tvg-country="US" group-title="USA",MeTV 
+http://40.160.24.53/METV/index.m3u8
+
+#EXTINF:-1 tvg-name="METV Plus" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s119266_h15_aa.png" tvg-id="MeTV.Plus.us2" tvg-country="US" group-title="USA",METV Plus 
+http://40.160.24.52/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-name="MGM+ HD" tvg-logo="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" tvg-id="MGM+.HD.us2" tvg-country="US" group-title="USA",MGM+ 
+http://40.160.24.52/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-name="MGM+ Hits HD" tvg-logo="http://dtil.tmsimg.com/assets/s67929_ll_h15_ad.png?w=360&amp;h=270" tvg-id="MGM+.Hits.HD.us2" tvg-country="US" group-title="USA",MGM+ Hits 
+http://40.160.24.52/EPIX_2/index.m3u8
+
+#EXTINF:-1 tvg-name="Movies!" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s81275_h15_ab.png" tvg-id="Movies!.us2" tvg-country="US" group-title="USA",MOVIES! 
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+
+#EXTINF:-1 tvg-name="MOVIESPHERE" tvg-logo="MOVIESPHERE.png" tvg-id="MOVIESPHERE.us" tvg-country="US" group-title="USA",MOVIESPHERE 
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC East Stream" tvg-logo="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" tvg-id="NBC.East.Stream.us2" tvg-country="US" group-title="USA",NBC East 
+http://stream.cammonitorplus.net/1785/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports 4K" tvg-logo="http://dtil.tmsimg.com/assets/s47004_ll_h15_ab.png?w=360&amp;h=270" tvg-id="NBC.Sports.4K.us2" tvg-country="US" group-title="USA",NBCSN 
+http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" tvg-id="NFL.Network.HD.us2" tvg-country="US" group-title="USA",NFL Network 
+http://40.160.24.53/NFL_Network/index.m3u8
+
+#EXTINF:-1 tvg-name="US - OXYGEN" tvg-logo="OXYGEN.png" tvg-id="Oxygen.us" tvg-country="US" group-title="USA",OXYGEN 
+http://40.160.24.55/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-name="Paramount Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Paramount.Network.HD.us2" tvg-country="US" group-title="USA",PARAMOUNT NETWORK 
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="SEC Network HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" tvg-id="SEC.Network.HD.us2" tvg-country="US" group-title="USA",SEC NETWORK 
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime Familyzone HD" tvg-logo="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Showtime.Familyzone.HD.us2" tvg-country="US" group-title="USA",SHOWTIME FAMILY 
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz HD" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Starz.HD.us2" tvg-country="US" group-title="USA",STARZ 
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz.Cinema.HD.us2" tvg-logo="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" tvg-id="StarzCinema.us" tvg-country="US" group-title="USA",StarzCinema 
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz Comedy HD" tvg-logo="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Starz.Comedy.HD.us2" tvg-country="US" group-title="USA",STARZ COMEDY 
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-name="SundanceTV HD" tvg-logohttp://dtil.tmsimg.com/assets/s71280_ll_h15_aa.png?w=360&amp;h=270" tvg-id="SundanceTV.HD.us2" tvg-country="US" group-title="USA",SUNDANCETV 
+http://40.160.24.55/SUNDANCE/index.m3u8
+
+#EXTINF:-1 tvg-name="Syfy HD" tvg-logo="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" tvg-id="Syfy.HD.us2" tvg-country="US" group-title="USA",Syfy 
+http://40.160.24.55/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-name="TBS HD" tvg-logo="https://iptv-epg.org/images/Szy_XqN-tC2ogzFV2Ngtm2yRnd02vtJpujv85-vDn_VchpMrYwB3zV7jcTD1KW7FSP5qKRcfyCpikPmArcDhTSGjbNVZCVc2gQ" tvg-id="TBS.HD.us2" tvg-country="US" group-title="USA",TBS 
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://iptv-epg.org/images/U1E7n-2dT21tlIhUtfagQw6ozq6a4jz1Z-dyhqqE8nq3VovZxRUkwvReoXjaXP1_As5Z678y584uLXiNsDHwl-JZyQvwWQOirQ" tvg-id="TNT.HD.us2" tvg-country="US" group-title="USA",TNT 
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="TV Land HD" tvg-logo="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" tvg-id="TV.Land.HD.us2" tvg-country="US" group-title="USA",TVLand 
+http://40.160.24.55/TV_LAND/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" tvg-id="USA.Network.HD.us2" tvg-country="US" group-title="USA",USA Network 
+http://45.190.156.152/USA/index.m3u8
+
+#EXTINF:-1 tvg-name="WE tv HD" tvg-logo="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" tvg-id="WE.tv.HD.us2" tvg-country="US" group-title="USA",WE TV 
+http://40.160.24.55/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="Weather Nation TV HD" tvg-logo="http://dtil.tmsimg.com/assets/s72422_ll_h15_aa.png?w=360&amp;h=270" tvg-id="Weather.Nation.TV.HD.us2" tvg-country="US" group-title="USA",WEATHERNATION 
+http://40.160.24.55/WEATHER_NATION/index.m3u8
+
+
+
+
