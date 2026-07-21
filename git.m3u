@@ -11,6 +11,12 @@ http://40.160.24.52/ABC/index.m3u8
 #EXTINF:-1 tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-id="AMC.us" tvg-country="US" group-title="USA",AMC    
 http://23.239.31.26:8989/amc/index.m3u8
 
+#EXTINF:-1 tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-id="AMC.us" tvg-country="US" group-title="USA",AMC    
+http://84.17.50.102/amc/index.m3u8
+
+#EXTINF:-1 tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-id="AMC.us" tvg-country="US" group-title="USA",AMC    
+http://41.223.30.230/AMC/index.m3u8
+
 #EXTINF:-1 tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/images/gQeYXWbj0NsqrOEUoTDzcQaP_QLuVn2T8tZUfRtATLltAJPKwVwnmWsNG6cwnJ_klGbN9wrEJigf3-nGQ6jGoMKaes8SFR8By7ft12Y" tvg-id="AMCPlus.us" tvg-country="US" group-title="USA",AMC Plus   
 http://40.160.24.52/AMC_PLUS/index.m3u8
 
